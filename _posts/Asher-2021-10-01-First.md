@@ -1,3 +1,16 @@
+---
+layout: post
+title: "Rsearch"
+categories: Dwelling
+author:
+- Asher
+meta: "Springfield"
+---
+
+Early Research:
+
+
+
 #include<iostream>
 using namespace std;
 #include<string>
